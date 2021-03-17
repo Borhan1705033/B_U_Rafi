@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1615977033 source:e:\project\rafi\main.cpp
+	<iostream>
+	"rafi.h"
+	"sub.h"
+	"mul.h"
+
+1615974684 e:\project\rafi\rafi.h
+
+1615974874 source:e:\project\rafi\rafi.cpp
+	"rafi.h"
+	<iostream>
+
+1615974826 e:\project\rafi\sub.h
+
+1615974914 source:e:\project\rafi\sub.cpp
+	"sub.h"
+	<iostream>
+
+1615977024 e:\project\rafi\mul.h
+
+1615974987 source:e:\project\rafi\mul.c
+
+1615977102 source:e:\project\rafi\mul.cpp
+	"mul.h"
+	<iostream>
+
+1615977240 source:e:\project\rafi\div.cpp
+	"div.h"
+	<iostream>
+
+1615977178 e:\project\rafi\div.h
+
